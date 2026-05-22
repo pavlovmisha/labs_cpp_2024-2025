@@ -1,0 +1,14 @@
+{
+    "name": "lab033",
+    "version": "1.0.0",
+    "dependencies": [
+        {
+            "name": "sdl2",
+            "platform": "windows"
+        },
+        {
+            "name": "sdl2-ttf",
+            "platform": "windows"
+        }
+    ]
+} 
