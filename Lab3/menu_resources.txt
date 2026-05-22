@@ -1,0 +1,29 @@
+[MENU:main]
+title=Главное меню
+x=100
+y=100
+width=600
+height=400
+item1=Диалоговое окно:new_game
+item2=Подменю:open_settings
+item3=Выход:exit
+
+[MENU:settings]
+title=Подменю
+x=100
+y=100
+width=600
+height=400
+item1=1:sound_settings
+item2=2:graphics_settings
+item3=3:control_settings
+item4=Назад:back
+
+[DIALOG:new_game]
+title=Окно
+message=Привет!
+x=250
+y=200
+width=300
+height=150
+button1=OK:close_dialog
